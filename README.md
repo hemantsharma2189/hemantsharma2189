@@ -74,3 +74,17 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantsharma2189&theme=tokyonight&animation=stagger"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemantsharma2189/hemantsharma2189/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemantsharma2189/hemantsharma2189/output/github-snake.svg">
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/hemantsharma2189/hemantsharma2189/output/github-snake.svg">
+</picture>
+
+</div>
