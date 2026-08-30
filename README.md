@@ -59,12 +59,18 @@
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hemantsharma2189&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemantsharma2189&theme=tokyonight&animation=rgb-soft&duration=5"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsharma2189&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemantsharma2189&theme=tokyonight&animation=load"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemantsharma2189&theme=tokyonight&animation=stagger"/>
 
 </div>
